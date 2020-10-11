@@ -1,0 +1,1 @@
+Open this folder in Visual Studio and then please refer to this article https://docs.microsoft.com/en-us/azure/azure-functions/functions-develop-vs
