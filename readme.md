@@ -1,4 +1,4 @@
-Please visit https://github.com/evilreborn/Fake-News-Detection for animated instruction.
+
 
 # Fake-News-Detection
 Chrome Extension which can detect Fake News using TFid ML.
